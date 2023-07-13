@@ -40,6 +40,7 @@ También hay un par de extensiones bastante útiles que les recomiendo de entrad
 * Ctrl + Shift + N: Nueva ventana de Visual Studio Code.
 * Ctrl + N: Nueva pestaña sin nombre de Visual Studio Code.
 * Ctrl + W: Cerrar una pestaña de Visual Studio Code.
+* Ctrl + k + W: Cerrar todas las pestañas de Visual Studio Code.
 * Ctrl + Shift + T: Volver abrir uno a uno las pestañas cerradas de Visual Studio Code.
 * Ctrl + Shift + K: Eliminar una linea o eliminar varias lineas si es que se reslataron previamente.
 * Ctrl + Shift + []: Aplicar sangria hacia la izquierdda y derecha respectivamente.
@@ -62,5 +63,13 @@ También hay un par de extensiones bastante útiles que les recomiendo de entrad
 * Ctrl + Shift + L: Primero te posicionas en una palabra o resaltas una palabra o frase que ves muchas repiticiones, luego presionar el comando y me 
 seleccionara todas las coincidencias automaticamente.
 * Shift + Alt + a: TieneS que seleccionar ante una palabra o frase si o si para comentarlo, caso contrario te comentara un espacio vacio.
-* Ctrl + K + C | Ctrl + Shift + /: Comentar la linea de codigo actual o todas las lineas al que estas subrayando o resaltando
-* Ctrl + K + U: Descomentar la linea de codigo actual o todas las lineas al que estas subrayando o resaltando
+* Ctrl + K + C: Solo comentar la linea de codigo actual o todas las lineas al que estas subrayando o resaltando
+* Ctrl + K + U: Solo descomentar la linea de codigo actual o todas las lineas al que estas subrayando o resaltando.
+* Ctrl + Shift + /: Comentar/descomentar la linea de codigo actual o todas las lineas al que estas subrayando o resaltando
+* Ctrl + Shift + Z | Ctrl + y: Rehacer los cambios a como habia cambiado
+* Ctrl + Z: Deshacer los cambios realizados a lo anterior
+* Alt + F12 | Alt + Click: Ir a la definición de un objeto de javascript siempre y cuando este situado encima de la palabra del objetod e javascript
+* Shift + F12 | Ctrl + Shift + F12: Ir a la definición de un objeto de javascript siempre y cuando este situado encima de la palabra del objetod e javascript pero en la misma pantalla
+* Ctrl + K + Z: Pasar al modo ZEN (No necesario)
+* Ctrl +  Alt + T: Abrir la terminal
+* Emmet Wrap: Esto envuelve en formato html tu contenido subrayado, por ejemplo puedes envolverlo en un parrafo con uan clase o un id con mas hijos, para ello resltas lo que quieres envolver, abres la paleta de comando y escribes wrap y digitas lo que vas a envolver como "p.text-center>span", yo lo configure con el comando Ctrl + E + W para mas facil envolverlos en los html que quiera
